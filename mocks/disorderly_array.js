@@ -1,0 +1,8 @@
+"use strict";
+exports.__esModule = true;
+exports.test1 = {
+    name: 'test1',
+    list: [
+        44, 75, 23, 43, 55, 12, 64, 77, 33
+    ]
+};
